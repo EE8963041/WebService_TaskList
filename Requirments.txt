@@ -1,0 +1,9 @@
+Python
+Django
+
+Libraries:
+Datetime
+Request
+OS
+django-cors-headers
+corsheaders
